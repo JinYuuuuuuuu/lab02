@@ -23,12 +23,12 @@ public:
     int max() const;                 // maximum value
     double average() const;          // average of all values
     void insertFirst(int value);     // insert new first value
-
     IntList& operator=(const IntList& source); //overloaded  (NO CHANGE)
 
 private:
 
     // (Optional) You can add some private helper functions here.
+    void clear(); //delete method
 
     // definition of Node structure (DO NOT CHANGE):
     struct Node {
