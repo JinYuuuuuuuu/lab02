@@ -1,6 +1,6 @@
 // intlist.cpp
 // Implements class IntList
-// Hechenjin Yu 
+// Hechenjin Yu, Ruijie Tao
 // Thu Oct 19
 
 #include "intlist.h"
